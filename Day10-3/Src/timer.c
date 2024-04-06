@@ -1,9 +1,3 @@
-/*
- * timer.c
- *
- *  Created on: Apr 4, 2024
- *      Author: Nilesh
- */
 #include "timer.h"
 
 void TimerInit(uint32_t ms) {
